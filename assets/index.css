@@ -1,0 +1,12 @@
+.background-image-main {
+  background-image: url(https://static.atlasacademy.io/JP/Back/back85100.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.max-width-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
